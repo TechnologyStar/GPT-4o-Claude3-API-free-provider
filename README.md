@@ -92,13 +92,7 @@ OpenKEY $5套餐兑换码：e85f1c5ae8d545c08c8d5204b7539086
 > 
 > [ **查看应用**](https://u.tools/plugins/detail/ChatGPT.%E5%A5%BD%E5%8F%8B/)
 
-绑定教程截图：
 
-![ChatGPT.好友](./images/free_utools.png)
-
-绑定成功后，鼠标右键ai列表，选择需要的模型即可。
-
-![ChatGPT.好友](./images/free_utools1.png)
 
 ### 二、开源应用Chatgpt-next-web（ChatGPT-Midjourney）
 
@@ -106,34 +100,24 @@ OpenKEY $5套餐兑换码：e85f1c5ae8d545c08c8d5204b7539086
 > 
 > [开源ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) 二开版本，支持Midjourney对话的开源应用。
 
-绑定教程截图：
 
-点击设置图标。找到自定义接口设置，配置如下：
-![Chatgpt-next-web](./images/free_chatgpt-next-web.png)
 
 ### 三、Lobe-chat
 
 > [Lobe-chat](https://github.com/lobehub/lobe-chat) 是一个开源的聊天应用，支持聊天、绘画、语音对话等。
 
-绑定教程截图：
-
-![lobe-chat](./images/free_lobe-chat.png)
 
 ### 四、BotGem
 
 > [BotGem](https://botgem.com/) 非开源工具，支持PC和移动端，功能单一，只支持聊天，但多端适配。
 
-绑定方法类似上方截图教程，填写免费API地址`https://free.gpt.ge`+`apikey` 即可。
-
 ### 五、ChatBox
 
 > [ChatBox](https://github.com/Bin-Huang/chatbox) 支持桌面端APP版和web版，点开setting按钮配置即可。
 
-绑定方法类似上方截图教程，填写免费API地址`https://free.gpt.ge`+`apikey` 即可。
 
 ### 六、FastGPT
 
 > [FastGPT](https://github.com/labring/FastGPT) 支持知识库的聊天应用。
 
-部署时参数host填写`https://free.gpt.ge` 可以传入我们的`apikey` 即可
 
