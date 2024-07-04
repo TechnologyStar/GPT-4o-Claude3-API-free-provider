@@ -31,15 +31,38 @@ OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
 2. 支持OpenAI所有模型。
 
 ## api中转站集合（部分邀请码，获得的盈利将用于共享公共api key）
-1.   https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
-2.   https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
+1.  【推荐】https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
+2. 【推荐】https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
 3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
 4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
 5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
 6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
 7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
+8.   【推荐】https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
    
+## 共享账号及key(部分内容来源于网络)
+Plus订阅账号共享：plus@gptocean.com
+Plus订阅账号密码：XKqf2gmHD8
+120美金账号1：格式：邮箱账号----账号密码----Key rjg6zm03j@mail.terobox.com----Aa112211----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
+120美金账号2：格式：邮箱账号----账号密码----Key sjn9mgrho@mail.terobox.com----Aa112211----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
+key:
+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
+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
+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
+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
+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
+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
 
+OpenKEY $5套餐兑换码：0c1f050817b24d79a01681759231bd9e
+OpenKEY $5套餐兑换码：23e581513c9d467aa988a1ca55583cc8
+OpenKEY $5套餐兑换码：337a1cee9b214d6e80cd7deb82f16041
+OpenKEY $5套餐兑换码：87c9763a977349caae6bdf9a5296a67b
+OpenKEY $5套餐兑换码：7aa69552ca684ecbb2b531c7e339e79d
+OpenKEY $5套餐兑换码：fc4aa0f75016491896bdaf7175044235
+OpenKEY $5套餐兑换码：cf3f7978fcab4e78958ef34a5ba9b049
+OpenKEY $5套餐兑换码：230037458b874cefa7034c6b220257a7
+OpenKEY $5套餐兑换码：17d199c1bd154a57aae3cff93d88479a
+OpenKEY $5套餐兑换码：e85f1c5ae8d545c08c8d5204b7539086
 ## 应用支持
 
 > [!NOTE]
