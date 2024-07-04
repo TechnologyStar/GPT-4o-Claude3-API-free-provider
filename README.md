@@ -42,24 +42,41 @@ OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    
 ## 共享账号及key(部分内容来源于网络)
 1.Plus订阅账号共享：plus@gptocean.com Plus订阅账号密码：XKqf2gmHD8
+
 2.120美金账号1：格式：邮箱账号----账号密码----Key rjg6zm03j@mail.terobox.com----Aa112211----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
+
 3.120美金账号2：格式：邮箱账号----账号密码----Key sjn9mgrho@mail.terobox.com----Aa112211----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
+
 4.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
+
 5.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
+
 6.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
+
 7.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
+
 8.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
+
 9.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
 
 OpenKEY $5套餐兑换码：0c1f050817b24d79a01681759231bd9e
+
 OpenKEY $5套餐兑换码：23e581513c9d467aa988a1ca55583cc8
+
 OpenKEY $5套餐兑换码：337a1cee9b214d6e80cd7deb82f16041
+
 OpenKEY $5套餐兑换码：87c9763a977349caae6bdf9a5296a67b
+
 OpenKEY $5套餐兑换码：7aa69552ca684ecbb2b531c7e339e79d
+
 OpenKEY $5套餐兑换码：fc4aa0f75016491896bdaf7175044235
+
 OpenKEY $5套餐兑换码：cf3f7978fcab4e78958ef34a5ba9b049
+
 OpenKEY $5套餐兑换码：230037458b874cefa7034c6b220257a7
+
 OpenKEY $5套餐兑换码：17d199c1bd154a57aae3cff93d88479a
+
 OpenKEY $5套餐兑换码：e85f1c5ae8d545c08c8d5204b7539086
 ## 应用支持
 
