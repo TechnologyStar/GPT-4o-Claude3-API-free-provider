@@ -30,10 +30,14 @@ OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
 1. 更低延迟、高性能、高可用、高并发。
 2. 支持OpenAI所有模型。
 
-## api中转站集合（部分加入了我的邀请码，之后获得的盈利我将用于共享公共api key）
+## api中转站集合（部分邀请码，获得的盈利将用于共享公共api key）
 1.   https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
 2.   https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
 3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
+4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
+5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
+6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
+7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
    
 
 ## 应用支持
