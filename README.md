@@ -21,30 +21,7 @@
 ## 应用支持
 
 > [!NOTE]
-> 所有可以自定义API地址的GPT应用，
-
-
-|                                            🌹 赞助方 🌹                                             |
-  |:------------------------------------------------------------------------------------------------:|
-| 👍 [头顶冒火](https://burn.hair/register?aff=CAMW) 签到领余额，支持 GPT4、GPT4-o、GPT-3.5-turbo、DALL·E等顶级模型。 |
-| 👍 [V3 API](https://api.v3.cm/register?aff=WWu6) 支持 GPT4、Claude3、GPT-3.5-turbo、Gemini Pro、DALL·E。 |
-
-
----
-##  GPT-4o/Claude3 API free provider
-1.  https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
-2.  https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
-3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
-4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
-5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
-6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
-7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
-8.   https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
-   
-
-
-
-
+> 所有可以自定义API地址的GPT应用
 
 ### 一、ChatGPT.好友插件
 
@@ -81,5 +58,38 @@
 ### 六、FastGPT
 
 > [FastGPT](https://github.com/labring/FastGPT) 支持知识库的聊天应用。
+
+> 注：
+>
+> 1. 赞助方平台将加入邀请码（之后得到的盈利将用于共享公共key）
+> 2. 标签含义
+>    - 🆓完全免费
+>    - 🔓有免费额度
+>    - 💰需要充值
+>    - 💪支持 Claude3 或 GPT4o
+>    - 🎉支持其他模型或其他功能
+>    - 🌎需要国际网络
+>    - 🎁充值有较大优惠（<50%）
+>    - 😆签到领余额
+>    - 🌹赞助商
+
+|                                            🌹 赞助方 🌹                                             |
+  |:------------------------------------------------------------------------------------------------:|
+| 👍 [头顶冒火](https://burn.hair/register?aff=CAMW) 签到领余额，支持 GPT4、GPT4-o、GPT-3.5-turbo、DALL·E等顶级模型。 |
+| 👍 [V3 API](https://api.v3.cm/register?aff=WWu6) 支持 GPT4、Claude3、GPT-3.5-turbo、Gemini Pro、DALL·E。 |
+
+
+---
+##  GPT-4o/Claude3 API free provider
+1.  https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
+2.  https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
+3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
+4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
+5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
+6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
+7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
+8.   https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
+   
+
 
 
