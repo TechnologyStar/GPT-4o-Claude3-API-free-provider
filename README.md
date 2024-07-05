@@ -16,7 +16,7 @@
 🌈 欢迎贡献
 
 - [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?)
-- [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?)
+- [反馈站点失效](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?)
 - 更多(todo)
 
 ## 项目介绍
@@ -120,7 +120,7 @@
         <tr>
             <td>4</td>
             <td>openai-hk</td>
-            <td><a href="https://openai-hk.com/?i=29412" target="_blank">https://openai-hk.com/?i=29412</a></td>
+            <td><a href="https://openai-hk.com/" target="_blank">https://openai-hk.com/?i=29412</a></td>
             <td>🆓(GPT3.5),🔓,🎉</td>
             <td>赠1元，超高并发（部分模型有折扣），含公益版GPT3.5</td>
         </tr>
@@ -148,7 +148,7 @@
         <tr>
             <td>8</td>
             <td>openkey</td>
-            <td><a href="https://openkey.cloud/register?aff=PBAKB" target="_blank">https://openkey.cloud/register?aff=PBAKB</a></td>
+            <td><a href="https://openkey.cloud/" target="_blank">https://openkey.cloud/register?aff=PBAKB</a></td>
             <td>🔓,💪</td>
             <td>支持多并发，赠$0.2，多并发
 
