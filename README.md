@@ -13,6 +13,12 @@
 
 ✔此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
+🌈 欢迎贡献
+
+- [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?)
+- [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?)
+- 更多(todo)
+
 ## 项目介绍
 1. 集合了提供ChatGPT API的免费第三方平台
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
