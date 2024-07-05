@@ -15,14 +15,17 @@
 
 🌈 欢迎贡献(请按照模板写)
 
+👍如需直接使用（无api），请转 https://github.com/LiLittleCat/awesome-free-chatgpt
+
 - [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
 - [反馈站点失效](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues//new?title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
 - 更多(todo)
-
+如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
 ## 项目介绍
 1. 集合了提供ChatGPT API的免费第三方平台
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    注：赞助方平台将加入邀请码，获得的盈利将用于共享公共api key
+3.本项目的部分评分标准参照https://github.com/LiLittleCat/awesome-free-chatgpt
 
 ## 应用支持
 
