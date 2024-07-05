@@ -13,10 +13,10 @@
 
 ✔此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
-🌈 欢迎贡献
+🌈 欢迎贡献(请按照模板写)
 
-- [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?)
-- [反馈站点失效](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?)
+- [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
+- [反馈站点失效](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues//new?title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
 - 更多(todo)
 
 ## 项目介绍
