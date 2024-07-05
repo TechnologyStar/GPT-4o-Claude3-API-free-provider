@@ -1,4 +1,4 @@
-# ChatGPT/GPT-4o API Third Party Site Collection(ChatGPT API 第三方网站集)
+# GPT-4o/Claude3 API free provider(GPT-4o/Claude3 API 免费提供商)
 > [!NOTE]
 > 本项目为公益免费项目，使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
 > 
@@ -6,20 +6,22 @@
 > 
 > 该项目API仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途，否则后果自负。
 
+> 4 月 1 日，OpenAI 宣布可一键使用 ChatGPT 3.5，之后，登录用户又可以享受免费GPT4-o,
+> 参阅 [Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)。
 
+🎁 免费的GPT-4o/Claude3 API提供方，持续更新。
 
+✔此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
 ## 项目介绍
-1. 集合了提供ChatGPT API的第三方平台
+1. 集合了提供ChatGPT API的免费第三方平台
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    注：赞助方平台将加入邀请码，获得的盈利将用于共享公共api key
 
-## 免费使用教程
+## 应用支持
 
-1. 首先选择下方一个平台并注册，获得免费测试额度（0.1到5美金/公益免费无限额）
-2. 领取后创建key,请妥善保管你的APIKEY。
-3. 复制免费API地址：见平台官网。
-4. 在支持的应用中绑定你的APIKEY+API地址(`BASE_URL`)
+> [!NOTE]
+> 所有可以自定义API地址的GPT应用，
 
 
 |                                            🌹 赞助方 🌹                                             |
@@ -29,22 +31,19 @@
 
 
 ---
-## api中转站集合（部分邀请码，获得的盈利将用于共享公共api key）
-1.  【推荐】https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
-2. 【推荐】https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
+##  GPT-4o/Claude3 API free provider
+1.  https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
+2.  https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
 3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
 4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
 5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
 6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
 7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
-8.   【推荐】https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
+8.   https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
    
 
 
-## 应用支持
 
-> [!NOTE]
-> 所有可以自定义API地址的GPT应用，
 
 
 ### 一、ChatGPT.好友插件
