@@ -85,16 +85,73 @@
 | 👍 [V3 API](https://api.v3.cm/register?aff=WWu6) 支持 GPT4、Claude3、GPT-3.5-turbo、Gemini Pro、DALL·E。 |
 
 
----
-##  GPT-4o/Claude3 API free provider
-1.  https://burn.hair/register?aff=CAMW 头顶冒火-赠 $0.3，每日签到得额度，支持高并发（原价充值）
-2.  https://api.v3.cm/register?aff=WWu6  V3 API（混合版）-赠 $0.2，高并发（3折充值），超多模型
-3.   https://gf.gpt.ge/register?aff=ie7m    V3 API（官转版）-赠 $0.2，高并发（6折充值）
-4.   https://openai-hk.com/?i=29412      openai-hk- 赠1元，超高并发（部分模型有折扣），含公益版GPT3.5
-5.   https://faucet.openkey.cloud/     ChatGPT API 水龙头 -免费(令牌有 $1.00 的使用限制, 有效期为3天)
-6.   https://github.com/popjane/free_chatgpt_api   公益免费的ChatGPT API
-7.   https://github.com/chuyuewei/ChatGPT-API   GPT-API-free  -支持 GPT-4（每天3次）
-8.   https://openkey.cloud/register?aff=PBAKB    openkey-支持多并发，赠$0.2，多并发
+<table>
+    <thead>
+        <tr>
+            <th>序号</th>
+            <th>网站</th>
+            <th>链接</th>
+            <th>标签</th>
+            <th>备注</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>头顶冒火</td>
+            <td><a href="https://burn.hair/register?aff=CAMW" target="_blank">https://burn.hair/register?aff=CAMW</a></td>
+            <td>🆓, 💪</td>
+            <td>赠 $0.3，每日签到得额度，支持高并发（原价充值）</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>V3 API（混合版）</td>
+            <td><a href="https://api.v3.cm/register?aff=WWu6" target="_blank">https://api.v3.cm/register?aff=WWu6</a></td>
+            <td>🆓, 💪, 🎁</td>
+            <td>赠 $0.2，高并发（3折充值），超多模型</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>V3 API（官转版）</td>
+            <td><a href="https://gf.gpt.ge/register?aff=ie7m" target="_blank">https://gf.gpt.ge/register?aff=ie7m</a></td>
+            <td>🆓, 💪</td>
+            <td>赠 $0.2，高并发（6折充值）</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>openai-hk</td>
+            <td><a href="https://openai-hk.com/?i=29412" target="_blank">https://openai-hk.com/?i=29412</a></td>
+            <td>🆓, 💪, 🎁</td>
+            <td>赠1元，超高并发（部分模型有折扣），含公益版GPT3.5</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>ChatGPT API 水龙头</td>
+            <td><a href="https://faucet.openkey.cloud/" target="_blank">https://faucet.openkey.cloud/</a></td>
+            <td>🆓</td>
+            <td>免费(令牌有 $1.00 的使用限制, 有效期为3天)</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>公益免费的ChatGPT API</td>
+            <td><a href="https://github.com/popjane/free_chatgpt_api" target="_blank">https://github.com/popjane/free_chatgpt_api</a></td>
+            <td>🆓</td>
+            <td>公益免费</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>GPT-API-free</td>
+            <td><a href="https://github.com/chuyuewei/ChatGPT-API" target="_blank">https://github.com/chuyuewei/ChatGPT-API</a></td>
+            <td>🆓, 💪</td>
+            <td>支持 GPT-4（每天3次）</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>openkey</td>
+            <td><a href="https://openkey.cloud/register?aff=PBAKB" target="_blank">https://openkey.cloud/register?aff=PBAKB</a></td>
+            <td>🆓, 💪</td>
+            <td>支持多并发，赠$0.2，多并发
+
    
 
 
