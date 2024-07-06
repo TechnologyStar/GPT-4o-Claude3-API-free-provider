@@ -108,28 +108,28 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
             <td>1</td>
             <td>头顶冒火</td>
             <td><a href="https://burn.hair/register?aff=CAMW" target="_blank">https://burn.hair/register?aff=CAMW</a></td>
-            <td>🆓,💪,🌹,😆</td>
+            <td>🆓,✌,🌹,😆,🚀</td>
             <td>赠 $0.3，每日签到得额度，支持高并发（原价充值）</td>
         </tr>
         <tr>
             <td>2</td>
             <td>V3 API（混合版）</td>
             <td><a href="https://api.v3.cm/register?aff=WWu6" target="_blank">https://api.v3.cm/register?aff=WWu6</a></td>
-            <td>🔓,💪, 🎁,🌹</td>
+            <td>🚀,🔓,💪, 🎁,🌹,🎉,✌</td>
             <td>赠 $0.2，高并发（3折充值），超多模型</td>
         </tr>
         <tr>
             <td>3</td>
             <td>V3 API（官转版）</td>
             <td><a href="https://gf.gpt.ge/register?aff=ie7m" target="_blank">https://gf.gpt.ge/register?aff=ie7m</a></td>
-            <td>🌹,🔓,💪</td>
+            <td>🚀,🌹,🔓,💪</td>
             <td>赠 $0.2，高并发（6折充值）</td>
         </tr>
         <tr>
             <td>4</td>
             <td>openai-hk</td>
             <td><a href="https://openai-hk.com/" target="_blank">https://openai-hk.com/?i=29412</a></td>
-            <td>🆓(GPT3.5),🔓,🎉</td>
+            <td>🆓(GPT3.5),🔓,🎉,✌,💪,🚀</td>
             <td>赠1元，超高并发（部分模型有折扣），含公益版GPT3.5</td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
             <td>8</td>
             <td>openkey</td>
             <td><a href="https://openkey.cloud/" target="_blank">https://openkey.cloud/register?aff=PBAKB</a></td>
-            <td>🔓,💪</td>
+            <td>🔓,💪,✌,🚀</td>
             <td>支持多并发，赠$0.2，多并发
 
    
