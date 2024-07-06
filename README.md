@@ -156,11 +156,11 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
         <tr>
             <td>8</td>
             <td>openkey</td>
-            <td><a href="https://openkey.cloud/" target="_blank">https://openkey.cloud/register?aff=PBAKB</a></td>
+            <td><a href="https://openkey.cloud/" target="_blank">https://openkey.cloud/</a></td>
             <td>🔓,💪,✌,🚀</td>
             <td>支持多并发，赠$0.2，多并发
 
-   
+     
 
 
 
