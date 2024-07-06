@@ -19,8 +19,8 @@
 
 https://github.com/LiLittleCat/awesome-free-chatgpt
 
-- [添加镜像站点](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
-- [反馈站点失效](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues//new?title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
+- [添加api提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=TechnologyStar&labels=&projects=&template=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9)
+- [反馈站点失效提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9)
 - 更多(todo)
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
 ## 项目介绍
@@ -78,12 +78,14 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
 >    - 🆓完全免费
 >    - 🔓有免费额度
 >    - 💰需要充值
->    - 💪支持 Claude3 或 GPT4o
->    - 🎉支持其他模型或其他功能
+>    - 💪支持 Claude最新模型
+>    -✌支持openai最新模型
+>    -🎉支持其他模型或其他功能
 >    - 🌎需要国际网络
 >    - 🎁充值有较大优惠（<50%）
->    - 😆签到领余额
->    - 🌹赞助商
+>    - 🚀支持高并发
+>    -😆签到领余额
+>    -🚩网站通过中国备案
 
 |                                            🌹 赞助方 🌹                                             |
   |:------------------------------------------------------------------------------------------------:|
