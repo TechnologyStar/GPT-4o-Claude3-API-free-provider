@@ -27,7 +27,8 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
 1. 集合了提供ChatGPT API的免费第三方平台
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    注：赞助方平台将加入邀请码，获得的盈利将用于共享公共api key
-3.本项目的部分评分标准参照https://github.com/LiLittleCat/awesome-free-chatgpt
+
+3.本项目参照https://github.com/LiLittleCat/awesome-free-chatgpt格式制作
 
 ## 应用支持
 
