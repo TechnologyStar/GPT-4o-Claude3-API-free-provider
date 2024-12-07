@@ -1,4 +1,4 @@
-# GPT-4o/Claude3 API free provider(GPT-4o/Claude3 API 免费提供商)
+# GPT-4o/Claude3 API provider
 > [!NOTE]
 > 本项目为公益免费项目，使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
 > 
@@ -6,8 +6,6 @@
 > 
 > 该项目API仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途，否则后果自负。
 
-> 4 月 1 日，OpenAI 宣布可一键使用 ChatGPT 3.5，之后，登录用户又可以享受免费GPT4-o,
-> 参阅 [Start using ChatGPT instantly](https://openai.com/blog/start-using-chatgpt-instantly)。
 
 🎁 免费的GPT-4o/Claude3 API提供方，持续更新。
 
@@ -15,16 +13,14 @@
 
 🌈 欢迎贡献(请按照模板写)
 
-👍如需直接使用（无api），请转 
-
-https://github.com/LiLittleCat/awesome-free-chatgpt
-
 - [添加api提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=TechnologyStar&labels=&projects=&template=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9)
 - [反馈站点失效提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9)
 - 更多(todo)
+- 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
+
 ## 项目介绍
-1. 集合了提供ChatGPT API的免费第三方平台
+1. 集合了提供ChatGPT API的第三方平台（含免费）
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    注：赞助方平台将加入邀请码，获得的盈利将用于共享公共api key
 
@@ -87,10 +83,6 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
 >    -😆签到领余额
 >    -🚩网站通过中国备案
 
-|                                            🌹 赞助方 🌹                                             |
-  |:------------------------------------------------------------------------------------------------:|
-| 👍 [头顶冒火](https://burn.hair/register?aff=CAMW) 签到领余额，支持 GPT4、GPT4-o、GPT-3.5-turbo、DALL·E等顶级模型。 |
-| 👍 [V3 API](https://api.v3.cm/register?aff=WWu6) 支持 GPT4、Claude3、GPT-3.5-turbo、Gemini Pro、DALL·E。 |
 
 
 <table>
@@ -106,60 +98,125 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
     <tbody>
         <tr>
             <td>1</td>
-            <td>头顶冒火</td>
-            <td><a href="https://burn.hair/register?aff=CAMW" target="_blank">https://burn.hair/register?aff=CAMW</a></td>
-            <td>🆓,✌,🌹,😆,🚀</td>
-            <td>赠 $0.3，每日签到得额度，支持高并发（原价充值）</td>
+            <td>cloud.siliconflow.cn</td>
+            <td><a href="https://cloud.siliconflow.cn/models" target="_blank">https://cloud.siliconflow.cn/models</a></td>
+            <td>🔓💪✌（部分地区）🎉🚀🚩</td>
+            <td></td>
         </tr>
         <tr>
             <td>2</td>
+            <td>VoAPI</td>
+            <td><a href="https://demo.voapi.top" target="_blank">https://demo.voapi.top</a></td>
+            <td>🆓,😆, 💪,✌</td>
+            <td>【全公益网站】余额每日清零</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>头顶冒火</td>
+            <td><a href="https://burn.hair/register?aff=CAMW" target="_blank">https://burn.hair/register?aff=CAMW</a></td>
+            <td>✌,🌹,😆,🚀</td>
+            <td>赠 $0.3，每日签到得额度，支持高并发（原价充值）</td>
+        </tr>
+        <tr>
+            <td>4</td>
             <td>V3 API（混合版）</td>
             <td><a href="https://api.v3.cm/register?aff=WWu6" target="_blank">https://api.v3.cm/register?aff=WWu6</a></td>
             <td>🚀,🔓,💪, 🎁,🌹,🎉,✌</td>
             <td>赠 $0.2，高并发（3折充值），超多模型</td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>5</td>
             <td>V3 API（官转版）</td>
             <td><a href="https://gf.gpt.ge/register?aff=ie7m" target="_blank">https://gf.gpt.ge/register?aff=ie7m</a></td>
             <td>🚀,🌹,🔓,💪</td>
             <td>赠 $0.2，高并发（6折充值）</td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>6</td>
             <td>openai-hk</td>
             <td><a href="https://openai-hk.com/" target="_blank">https://openai-hk.com/?i=29412</a></td>
             <td>🆓(GPT3.5),🔓,🎉,✌,💪,🚀</td>
             <td>赠1元，超高并发（部分模型有折扣），含公益版GPT3.5</td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>7</td>
             <td>ChatGPT API 水龙头</td>
             <td><a href="https://faucet.openkey.cloud/" target="_blank">https://faucet.openkey.cloud/</a></td>
             <td>🆓</td>
             <td>免费(令牌有 $1.00 的使用限制, 有效期为3天)</td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>8</td>
             <td>公益免费的ChatGPT API</td>
             <td><a href="https://github.com/popjane/free_chatgpt_api" target="_blank">https://github.com/popjane/free_chatgpt_api</a></td>
             <td>🆓</td>
             <td>公益免费</td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>9</td>
             <td>GPT-API-free</td>
             <td><a href="https://github.com/chuyuewei/ChatGPT-API" target="_blank">https://github.com/chuyuewei/ChatGPT-API</a></td>
             <td>🆓, 💪(GPT4)</td>
             <td>支持 GPT-4（每天3次）</td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>10</td>
             <td>openkey</td>
             <td><a href="https://openkey.cloud/" target="_blank">https://openkey.cloud/</a></td>
             <td>🔓,💪,✌,🚀</td>
-            <td>支持多并发，赠$0.2，多并发
-
+            <td>支持多并发，赠$0.2，多并发</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>gptgod.online</td>
+            <td><a href="https://gptgod.online/" target="_blank">https://gptgod.online/</a></td>
+            <td>💪✌🎁💰🎉😆</td>
+            <td>按次计费，积分额度</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>m3.ckit.gold</td>
+            <td><a href="https://m3.ckit.gold/" target="_blank">https://m3.ckit.gold/</a></td>
+            <td>💰💪✌</td>
+            <td>3元/刀，注册送$0.1</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>小兔api</td>
+            <td><a href="https://api.aischat.xy" target="_blank">https://api.aischat.xy</a></td>
+            <td>🆓💪✌</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>goapi.gptnb.ai</td>
+            <td><a href="https://goapi.gptnb.ai/">https://goapi.gptnb.ai/</a></td>
+            <td>💪✌🎁💰🎉</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>api.aigc369.com</td>
+            <td><a href="https://api.aigc369.com/pricing">https://api.aigc369.com/pricing</a></td>
+            <td>💪✌🎁💰🎉</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>api.mjdjourney.cn</td>
+            <td><a href="https://api.mjdjourney.cn/">https://api.mjdjourney.cn/</a></td>
+            <td>💪✌🎁💰🎉</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>api.bltcy.ai</td>
+            <td><a href="https://api.bltcy.ai/">https://api.bltcy.ai/</a></td>
+            <td>💪✌🎁💰🎉</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
      
 
 
