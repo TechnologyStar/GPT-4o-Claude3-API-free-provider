@@ -67,21 +67,23 @@
 
 > [FastGPT](https://github.com/labring/FastGPT) 支持知识库的聊天应用。
 
-> 注：
->
-> 1. 赞助方平台将加入邀请码（之后得到的盈利将用于共享公共key）
-> 2. 标签含义
->    - 🆓完全免费
->    - 🔓有免费额度
->    - 💰需要充值
->    - 💪支持 Claude最新模型
->    -✌支持openai最新模型
->    -🎉支持其他模型或其他功能
->    - 🌎需要国际网络
->    - 🎁充值有较大优惠（<50%）
->    - 🚀支持高并发
->    -😆签到领余额
->    -🚩网站通过中国备案
+注：
+
+1. 赞助方平台将加入邀请码（之后得到的盈利将用于共享公共key）
+2. 标签含义
+- 🆓 完全免费
+- 🔓 有免费额度
+- 💰 需要充值
+- 💪 支持 Claude 最新模型
+- ✌ 支持 OpenAI 最新模型
+- 🎉 支持其他模型或其他功能
+- 🌎 需要国际网络
+- 🎁 充值有较大优惠（<50%）
+- 🚀 支持高并发
+- 😆 签到领余额
+- 🚩 网站通过中国备案
+
+请问您需要我为这些标签添加更多信息，还是有其他方面的帮助？ 
 
 
 
@@ -100,7 +102,7 @@
             <td>1</td>
             <td>cloud.siliconflow.cn</td>
             <td><a href="https://cloud.siliconflow.cn/models" target="_blank">https://cloud.siliconflow.cn/models</a></td>
-            <td>🔓💪✌（部分地区）🎉🚀🚩</td>
+            <td>🔓💪✌🎉🚀🚩</td>
             <td></td>
         </tr>
         <tr>
@@ -221,6 +223,13 @@
             <td><a href="https://api.464888.xyz" target="_blank">https://demo.voapi.top</a></td>
             <td>🆓,😆, 🎁,✌，🎉</td>
             <td>免费50$每人，llama3.1 405b支持高并发</td>
+        </tr>
+       <tr>
+            <td>18</td>
+            <td>chat01（推荐）</td>
+            <td><a href="https://chat01.ai/?ref=j45ikbTa">https://api.bltcy.ai/</a></td>
+            <td>🔓✌🎁💰</td>
+            <td>支持pro,解决降智问题，每天免费2积分</td>
         </tr>
     </tbody>
 </table>
