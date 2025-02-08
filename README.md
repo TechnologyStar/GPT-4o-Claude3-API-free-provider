@@ -253,7 +253,7 @@
 
 
 ## 统计信息
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=TechnologyStar.Openai-Claude-Deepseek-API-provider)
+
 ![Last Commit](https://img.shields.io/github/last-commit/TechnologyStar/Openai-Claude-Deepseek-API-provider)
 ![License](https://img.shields.io/github/license/TechnologyStar/Openai-Claude-Deepseek-API-provider)
 
