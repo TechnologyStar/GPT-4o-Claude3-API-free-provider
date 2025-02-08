@@ -24,7 +24,7 @@
 2. OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程
    注：赞助方平台将加入邀请码，获得的盈利将用于共享公共api key
 
-3.本项目参照https://github.com/LiLittleCat/awesome-free-chatgpt格式制作
+3. 本项目参照 https://github.com/LiLittleCat/awesome-free-chatgpt 格式制作
 
 ## 应用支持
 
@@ -82,8 +82,8 @@
 - 🚀 支持高并发
 - 😆 签到领余额
 - 🚩 网站通过中国备案
+- ✔  已验证真实性
 
-请问您需要我为这些标签添加更多信息，还是有其他方面的帮助？ 
 
 
 
@@ -101,9 +101,9 @@
         <tr>
             <td>1</td>
             <td>cloud.siliconflow.cn</td>
-            <td><a href="https://cloud.siliconflow.cn/models" target="_blank">https://cloud.siliconflow.cn/models</a></td>
-            <td>🔓💪✌🎉🚀🚩</td>
-            <td></td>
+            <td><a href="[https://cloud.siliconflow.cn/models](https://cloud.siliconflow.cn/i/ZKV30bdG)" target="_blank">https://cloud.siliconflow.cn/models</a></td>
+            <td>🔓💪✌🎉🚀🚩✔</td>
+            <td>华为云昇腾云服务，2025 年 2 月 6 日起，未实名用户每日最多请求此模型 100 次,送14RMB</td>
         </tr>
         <tr>
             <td>2</td>
@@ -228,8 +228,8 @@
             <td>18</td>
             <td>chat01（推荐）</td>
             <td><a href="https://chat01.ai/?ref=j45ikbTa">https://api.bltcy.ai/</a></td>
-            <td>🔓✌🎁💰</td>
-            <td>支持pro,解决降智问题，每天免费2积分</td>
+            <td>🔓✌🎁💰✔</td>
+            <td>支持pro,解决降智问题，每天免费2积分，不支持高并发（官网版本，聊天+api同网站）</td>
         </tr>
     </tbody>
 </table>
