@@ -100,8 +100,8 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>cloud.siliconflow.cn</td>
-            <td><a href="[https://cloud.siliconflow.cn/models](https://cloud.siliconflow.cn/i/ZKV30bdG)" target="_blank">https://cloud.siliconflow.cn/models</a></td>
+            <td>cloud.siliconflow.cn(推荐/企业级)</td>
+            <td><a href="https://cloud.siliconflow.cn/i/ZKV30bdG" target="_blank">https://cloud.siliconflow.cn/models</a></td>
             <td>🔓💪✌🎉🚀🚩✔</td>
             <td>华为云昇腾云服务，2025 年 2 月 6 日起，未实名用户每日最多请求此模型 100 次,送14RMB</td>
         </tr>
