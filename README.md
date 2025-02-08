@@ -233,7 +233,35 @@
         </tr>
     </tbody>
 </table>
+
+## 使用指南
+1. 获取API Key：注册对应平台后，在用户中心获取
+2. 配置Endpoint：根据应用要求填写API地址
+3. 模型选择：不同平台支持的模型列表可能不同
+4. 用量监控：建议在客户端设置用量限制
+
+## 贡献指南
+我们欢迎以下类型的贡献：
+- 新增API提供商（需提供至少3天的稳定性测试报告）
+- 补充使用教程（包括不同客户端的配置示例）
+- 完善验证机制（开发自动化测试脚本）
+- 翻译文档（支持多语言版本）
+
+## 法律声明
+本项目不存储任何API Key，不提供任何代理服务，所有资源均来自第三方平台。使用者应自行承担因使用API服务产生的所有法律责任。
+
+
+
+## 统计信息
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=TechnologyStar.Openai-Claude-Deepseek-API-provider)
+![Last Commit](https://img.shields.io/github/last-commit/TechnologyStar/Openai-Claude-Deepseek-API-provider)
+![License](https://img.shields.io/github/license/TechnologyStar/Openai-Claude-Deepseek-API-provider)
+
      
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TechnologyStar/Openai-Claude-Deepseek-API-provider&type=Date)](https://star-history.com/#TechnologyStar/Openai-Claude-Deepseek-API-provider&Date)
+
+
 
 
 
