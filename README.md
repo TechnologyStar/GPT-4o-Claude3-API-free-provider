@@ -1,4 +1,4 @@
-# GPT-4o/Claude3 API provider
+# Openai/Claude/Deepseek API provider
 > [!NOTE]
 > 本项目为公益免费项目，使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
 > 
