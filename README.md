@@ -1,7 +1,9 @@
 # Openai/Claude/Deepseek API provider
+
 <a href="https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider/blob/main/en.md" target="_blank">
   <button>English</button>
 </a>
+
 > [!NOTE]
 > 本项目为公益免费项目，使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
 > 
