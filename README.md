@@ -11,7 +11,7 @@
 
 ✔此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
-🌈 欢迎贡献(请按照模板写)
+🌈 欢迎贡献<模板无法加载请按照https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider/tree/main/.github/ISSUE_TEMPLATE填写>
 
 - [添加api提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=TechnologyStar&labels=&projects=&template=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9)
 - [反馈站点失效提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9)
