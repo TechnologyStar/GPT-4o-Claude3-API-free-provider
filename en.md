@@ -99,28 +99,28 @@ Notes:
         <tr>
             <td>3</td>
             <td>Burning Hair</td>
-            <td><a href="https://burn.hair/register?aff=CAMW" target="_blank">https://burn.hair/register?aff=CAMW</a></td>
+            <td><a href="https://burn.hair" target="_blank">https://burn.hair</a></td>
             <td>✌🌹😆🚀</td>
             <td>$0.3 sign-up bonus. Daily check-in rewards. Standard pricing.</td>
         </tr>
         <tr>
             <td>4</td>
             <td>V3 API (Hybrid)</td>
-            <td><a href="https://api.v3.cm/register?aff=WWu6" target="_blank">https://api.v3.cm/register?aff=WWu6</a></td>
+            <td><a href="https://api.v3.cm" target="_blank">https://api.v3.cm</a></td>
             <td>🚀🔓💪🎁🌹🎉✌</td>
             <td>$0.2 bonus. 70% discount pricing. Multiple models.</td>
         </tr>
         <tr>
             <td>5</td>
             <td>V3 API (Official)</td>
-            <td><a href="https://gf.gpt.ge/register?aff=ie7m" target="_blank">https://gf.gpt.ge/register?aff=ie7m</a></td>
+            <td><a href="https://gf.gpt.ge" target="_blank">https://gf.gpt.ge</a></td>
             <td>🚀🌹🔓💪</td>
             <td>$0.2 bonus. 40% discount pricing.</td>
         </tr>
         <tr>
             <td>6</td>
             <td>openai-hk</td>
-            <td><a href="https://openai-hk.com/" target="_blank">https://openai-hk.com/?i=29412</a></td>
+            <td><a href="https://openai-hk.com/" target="_blank">https://openai-hk.com</a></td>
             <td>🆓(GPT3.5)🔓🎉✌💪🚀</td>
             <td>$0.15 credit. Public GPT-3.5 version available.</td>
         </tr>
