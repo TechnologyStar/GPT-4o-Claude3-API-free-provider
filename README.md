@@ -16,10 +16,7 @@
 
 ✔此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
-🌈 欢迎贡献<模板无法加载请按照https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider/tree/main/.github/ISSUE_TEMPLATE填写>
-
-- [添加api提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=TechnologyStar&labels=&projects=&template=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E6%B7%BB%E5%8A%A0api%E6%8F%90%E4%BE%9B%E6%96%B9)
-- [反馈站点失效提供方](https://github.com/TechnologyStar/GPT-4o-Claude3-API-free-provider/issues/new?assignees=&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88%E6%8F%90%E4%BE%9B%E6%96%B9)
+🌈 欢迎贡献(按照模板填写)
 - 更多(todo)
 - 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
@@ -87,7 +84,7 @@
 - 🚀 支持高并发
 - 😆 签到领余额
 - 🚩 网站通过中国备案
-- ✔  已验证真实性
+- ✔  已验证安全性/真实性
 
 
 
@@ -223,14 +220,14 @@
             <td></td>
         </tr>
        <tr>
-            <td>15</td>
+            <td>18</td>
             <td>464888</td>
             <td><a href="https://api.464888.xyz" target="_blank">https://demo.voapi.top</a></td>
             <td>🆓,😆, 🎁,✌，🎉</td>
             <td>免费50$每人，llama3.1 405b支持高并发</td>
         </tr>
        <tr>
-            <td>18</td>
+            <td>19</td>
             <td>chat01（推荐）(含邀请码)</td>
             <td><a href="https://chat01.ai/?ref=j45ikbTa">https://chat01.ai/</a></td>
             <td>🔓✌🎁💰✔</td>
